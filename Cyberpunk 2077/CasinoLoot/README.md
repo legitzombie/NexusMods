@@ -44,6 +44,6 @@ You need $5,000 to play, you're guaranteed a weapon per spin.
 
 # Everything is in the init.lua file.
  
-<img width="465" height="306" alt="luainstructions" src="https://github.com/user-attachments/assets/b1307840-7ec9-4612-8b99-7db077bb404c" />
+<img width="465" height="306" alt="luainstructions" src="https://github.com/user-attachments/assets/851abda2-5f7d-4ccd-96a5-4044a75ddfdf" />
 
 

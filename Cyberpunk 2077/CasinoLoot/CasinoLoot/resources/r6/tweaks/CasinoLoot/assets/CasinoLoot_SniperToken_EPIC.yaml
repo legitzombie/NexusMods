@@ -1,0 +1,10 @@
+# Mystery Sniper
+Items.CasinoLoot_SniperToken_EPIC:
+  $base: Items.Preset_Nue_Jackie_Legendary
+  displayName: LocKey("MysterySniper")
+  localizedDescription: LocKey("MysterySniperDesc")
+  quality: Quality.Legendary
+  objectActions: []
+  statModifierGroups: []
+  statModifiers: []
+  price: 15000.00

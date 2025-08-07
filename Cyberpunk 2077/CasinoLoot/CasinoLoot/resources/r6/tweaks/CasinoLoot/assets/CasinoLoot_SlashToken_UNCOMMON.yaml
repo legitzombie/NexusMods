@@ -1,0 +1,10 @@
+# Mystery Slash
+Items.CasinoLoot_SlashToken_UNCOMMON:
+  $base: Items.Preset_Nue_Jackie_Legendary
+  displayName: LocKey("MysterySlash")
+  localizedDescription: LocKey("MysterySlashDesc")
+  quality: Quality.Legendary
+  objectActions: []
+  statModifierGroups: []
+  statModifiers: []
+  price: 15000.00

@@ -1,0 +1,10 @@
+# Mystery Rifle
+Items.CasinoLoot_RifleToken_UNCOMMON:
+  $base: Items.Preset_Nue_Jackie_Legendary
+  displayName: LocKey("MysteryRifle")
+  localizedDescription: LocKey("MysteryRifleDesc")
+  quality: Quality.Legendary
+  objectActions: []
+  statModifierGroups: []
+  statModifiers: []
+  price: 15000.00

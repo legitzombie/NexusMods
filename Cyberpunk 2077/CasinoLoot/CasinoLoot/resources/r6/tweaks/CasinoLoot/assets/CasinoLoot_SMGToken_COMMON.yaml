@@ -1,0 +1,10 @@
+# Mystery SMG
+Items.CasinoLoot_SMGToken_COMMON:
+  $base: Items.Preset_Nue_Jackie_Legendary
+  displayName: LocKey("MysterySMG")
+  localizedDescription: LocKey("MysterySMGDesc")
+  quality: Quality.Legendary
+  objectActions: []
+  statModifierGroups: []
+  statModifiers: []
+  price: 15000.00

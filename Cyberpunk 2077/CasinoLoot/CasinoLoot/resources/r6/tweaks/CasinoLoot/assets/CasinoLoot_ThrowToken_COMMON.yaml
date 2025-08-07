@@ -1,0 +1,10 @@
+# Mystery Throw
+Items.CasinoLoot_ThrowToken_COMMON:
+  $base: Items.Preset_Nue_Jackie_Legendary
+  displayName: LocKey("MysteryThrow")
+  localizedDescription: LocKey("MysteryThrowDesc")
+  quality: Quality.Legendary
+  objectActions: []
+  statModifierGroups: []
+  statModifiers: []
+  price: 15000.00

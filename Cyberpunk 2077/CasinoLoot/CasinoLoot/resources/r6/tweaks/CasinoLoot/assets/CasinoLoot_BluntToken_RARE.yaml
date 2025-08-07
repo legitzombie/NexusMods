@@ -1,0 +1,10 @@
+# Mystery Blun 
+Items.CasinoLoot_BluntToken_RARE:
+  $base: Items.Preset_Nue_Jackie_Legendary
+  displayName: LocKey("MysteryBlun ")
+  localizedDescription: LocKey("MysteryBlun Desc")
+  quality: Quality.Legendary
+  objectActions: []
+  statModifierGroups: []
+  statModifiers: []
+  price: 15000.00

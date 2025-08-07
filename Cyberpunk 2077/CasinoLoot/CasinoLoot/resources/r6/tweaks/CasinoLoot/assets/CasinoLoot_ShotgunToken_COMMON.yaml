@@ -1,0 +1,10 @@
+# Mystery Shotgun
+Items.CasinoLoot_ShotgunToken_COMMON:
+  $base: Items.Preset_Nue_Jackie_Legendary
+  displayName: LocKey("MysteryShotgun")
+  localizedDescription: LocKey("MysteryShotgunDesc")
+  quality: Quality.Legendary
+  objectActions: []
+  statModifierGroups: []
+  statModifiers: []
+  price: 15000.00

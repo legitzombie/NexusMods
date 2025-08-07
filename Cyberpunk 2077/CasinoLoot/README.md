@@ -1,6 +1,6 @@
 ### CasinoLoot - The Weapon Casino
 
-<img width="1277" height="564" alt="main" src="https://github.com/user-attachments/assets/ced04744-a05f-4205-a159-d0617638a1be" />
+<img width="1277" height="563" alt="image" src="https://github.com/user-attachments/assets/e49afbaa-8d14-4ba1-ba14-838a3b28ee9a" />
 
 # Click / Press F to spin 
 
@@ -8,11 +8,11 @@ You need $5,000 to play, you're guaranteed a weapon per spin.
 
 # Rolls are rarity based. 
 
-<img width="465" height="306" alt="rarityguide" src="https://github.com/user-attachments/assets/9916bfba-f9a1-42b5-8b12-32db12b8ddec" />
+<img width="465" height="306" alt="rarityguide" src="https://github.com/user-attachments/assets/8e6a18e6-1721-4d46-8bf5-976b63dedd7b" />
 
 # Amounts increase as you stack up bonuses.
 
-<img width="465" height="306" alt="prizes" src="https://github.com/user-attachments/assets/ceb52358-f5ee-4ec2-af16-b696617d4f15" />
+<img width="465" height="306" alt="prizes" src="https://github.com/user-attachments/assets/f863f0e1-89ad-4cf2-a014-7780fee44f92" />
 
 # The rules are inspired by poker.
 
@@ -24,21 +24,23 @@ You need $5,000 to play, you're guaranteed a weapon per spin.
 
 #
 
-<img width="465" height="306" alt="colors" src="https://github.com/user-attachments/assets/21818974-0b21-47b5-a6f8-153627260f9b" />
+<img width="465" height="306" alt="colors" src="https://github.com/user-attachments/assets/a3233f16-851c-4360-b111-ed87d86742c3" />
+
 
 # How they work.
 
-<img width="465" height="306" alt="colortheory" src="https://github.com/user-attachments/assets/dd19b18e-944c-4b22-ad01-790294f52d3d" />
+<img width="465" height="306" alt="colortheory" src="https://github.com/user-attachments/assets/15ab6ec5-5860-4f82-b381-14bb6c95117a" />
 
 
 # As you spin your bankroll will dwindle
-<img width="465" height="306" alt="bankroll" src="https://github.com/user-attachments/assets/fc14d74b-0921-4bb9-b169-a880f0e4927f" />
+<img width="465" height="306" alt="bankroll" src="https://github.com/user-attachments/assets/523390a5-e9c8-40ee-a0a6-fd9640974771" />
 
 # and your bags will fill up. 
-<img width="465" height="306" alt="inventory" src="https://github.com/user-attachments/assets/289d0e6e-c0a1-4003-9c5f-5a7ef0685abb" />
+<img width="465" height="306" alt="inventory" src="https://github.com/user-attachments/assets/58e7e1b9-5373-4ada-97b4-cbb20ba57b2e" />
+
  
 # 
-<img width="465" height="306" alt="conclusion" src="https://github.com/user-attachments/assets/18e54331-769f-4479-9460-24707abfe2cd" />
+<img width="465" height="306" alt="conclusion" src="https://github.com/user-attachments/assets/5465ba47-6114-4753-8cc5-f4160c78289b" />
 
 # Everything is in the init.lua file.
  
